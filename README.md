@@ -1,5 +1,5 @@
 # towerOfHanoi
-Designing and analyzing an algorithm for solving a variant of the Tower of Hanoi
+Design and analyze an algorithm for solving a variant of the Tower of Hanoi in C++.
 
 ![Image of demo](https://media.giphy.com/media/h4lJZVGFDnWW0W6WJu/giphy.gif)
 
