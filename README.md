@@ -1,5 +1,5 @@
 # towerOfHanoi
-by Carlos Flores & George Navarro
+#### by Carlos Flores & George Navarro
 
 Design and analyze an algorithm for solving a variant of the Tower of Hanoi in C++.
 
