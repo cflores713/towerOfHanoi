@@ -3,7 +3,7 @@
 
 Design and analyze an algorithm for solving a variant of the Tower of Hanoi in C++.
 
-![Image of demo](https://media.giphy.com/media/h4lJZVGFDnWW0W6WJu/giphy.gif)
+![Image of demo](https://media.giphy.com/media/S5c0DMd1KDqK6wrA8V/giphy.gif)
 
 Given a directed graph (V,E) of Vectors {Start, Aux1, Aux2, Aux3, Dest} and Edges {(Start, Aux1),(Aux1, Aux2),(Aux2, Aux3),(Aux3, Dest),(Aux3, Aux1)} design an algorithm to successfully move a stack of N discs from the Start peg to the Dest peg.  
 
